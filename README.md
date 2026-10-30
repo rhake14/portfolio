@@ -2,7 +2,7 @@
 
 [Website öffnen](https://rhake14.github.io/portfolio/)
 
-Forschung, psychometrische Testentwicklung und interaktive Lehre zu individuellen Unterschieden. Stand: Version 5.1.
+Forschung, psychometrische Testentwicklung und interaktive Lehre zu individuellen Unterschieden. Stand: Version 5.4.
 
 ## Website aktualisieren
 
@@ -14,6 +14,8 @@ Die vollständige Website einschließlich Gestaltung, Animationen, Lernhilfen, Q
 
 Drei Module verbinden differenzielle Psychologie, Testentwicklung und die gemeinsame Vorhersage individueller Wahrnehmungsleistungen. Die optionale Lernbegleitung lässt sich jederzeit aktivieren, verschieben, in der Größe ändern und wieder deaktivieren. Kleine Fragezeichen führen zu gestuften Erklärungen mit deutschsprachigen Glossar- und Lexikonquellen. Drei Selbstcheck-Fragen je Modul erläutern richtige und andere Antwortmöglichkeiten.
 
-Die Studienansicht verwendet eine dokumentierte Nachberechnung aus veröffentlichten Originaldaten. Simulierte Verläufe und das getrennte Korrelationslabor sind als Simulation gekennzeichnet. Die Beispiele dienen der Lehre, nicht einer individuellen diagnostischen Aussage. Eingaben, Quizantworten und Einstellungen werden nicht an einen Server gesendet oder dauerhaft gespeichert.
+Die Studienansicht verwendet eine dokumentierte Nachberechnung aus veröffentlichten Originaldaten. Die fiktiven Lernverläufe sind als Simulation gekennzeichnet. Das getrennte Textverständnisbeispiel unterscheidet empirische Kennwerte und eine anschließende Lernsimulation. Die Beispiele dienen der Lehre, nicht einer individuellen diagnostischen Aussage. Eingaben, Quizantworten und Einstellungen werden nicht an einen Server gesendet oder dauerhaft gespeichert.
+
+Das zusätzliche Textverständnisbeispiel verwendet aus dem offiziellen Holzinger-Swineford-Datensatz nachgerechnete Aggregatwerte; seine veränderbaren Datenbedingungen sind ausdrücklich simuliert.
 
 Das Portfolio wurde mit Unterstützung von KI konzipiert und programmiert.
